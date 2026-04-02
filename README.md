@@ -62,7 +62,7 @@ mini-social-app/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/your-username/mini-social-app.git
+git clone https://anil3wfullstack.git
 cd mini-social-app
 ```
 
@@ -102,6 +102,9 @@ Create `.env` file:
 
 ```
 VITE_API_URL=http://localhost:5000/api
+or
+VITE_API_URL=https://anil3wbackend.onrender.com/api
+
 ```
 
 Run frontend:
@@ -128,9 +131,11 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
+## 📸 Live Demo
 
-*Add your screenshots here*
+Backend: https://anil3wbackend.onrender.com
+
+Frontend: https://anil3wfullstack.vercel.app
 
 ---
 
@@ -144,17 +149,12 @@ npm run dev
 
 ---
 
+Deploy: https://anil3wfullstack.vercel.app/
+
 ## 🙌 Author
 
 **Anil Kumar**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
 
----
-
-## ⭐ Show Your Support
-
-If you like this project, please ⭐ the repo!
 
 ---
