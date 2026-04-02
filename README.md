@@ -62,7 +62,7 @@ mini-social-app/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://anil3wfullstack.git
+git clone https://github.com/aniljiA1/anil3wfullstack.git
 cd mini-social-app
 ```
 
